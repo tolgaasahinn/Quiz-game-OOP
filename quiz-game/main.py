@@ -6,11 +6,9 @@ from art import logo
 print(logo)
 print("""
 Please Choose Your Topic
-1. General Knowledge
-2. Celebrities
+1. Science
+2. General Knowledge
 3. History
-4. Science
-
 """)
 topic = input("Please Choose Your Topic:")
 question_bank = []
